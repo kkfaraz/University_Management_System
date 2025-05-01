@@ -1,0 +1,33 @@
+University-Management-System-Java/
+│
+├── src/
+│   ├── About.java
+│   ├── AddStudent.java
+│   ├── AddTeacher.java
+│   ├── Conn.java
+│   ├── EnterMarks.java
+│   ├── ExaminationDetails.java
+│   ├── FeeStructure.java
+│   ├── Login.java
+│   ├── Marks.java
+│   ├── Project.java
+│   ├── Splash.java
+│   ├── StudentDetails.java
+│   ├── StudentFeeForm.java
+│   ├── StudentLeave.java
+│   ├── StudentLeaveDetails.java
+│   ├── TeacherDetails.java
+│   ├── TeacherLeave.java
+│   ├── TeacherLeaveDetails.java
+│   ├── UpdateStudent.java
+│   └── UpdateTeacher.java
+│
+├── assets/
+│   └── (images/icons used in GUI, if any)
+│
+├── database/
+│   └── ums_db.sql (your SQL file to create tables)
+│
+├── README.md
+├── LICENSE (optional)
+└── .gitignore

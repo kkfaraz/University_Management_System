@@ -125,7 +125,7 @@ GitHub Issues: Open an issue in this repository with a clear description of your
 GitHub Discussions: If enabled, engage with the community to ask questions or share ideas.
 
 Direct Contact:
-Email: 221980007@gift.edu.pk
+Email: khokharfaraz54@gmail.com
 LinkedIn: linkedin.com/in/muhammad-faraz-data-scienctist
 
 Feel free to reach out! Contributions, feedback, and collaborations are always welcome.
